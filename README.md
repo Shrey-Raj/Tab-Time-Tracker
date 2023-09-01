@@ -1,6 +1,6 @@
 # Tab Time Tracker Chrome Extension
 
-![Tab Time Tracker Logo](extension-logo.png)
+![Tab Time Tracker Logo](![icons8-url-48](https://github.com/Shrey-Raj/Tab-Time-Tracker/assets/119098647/6e5941d9-b090-4acb-86a9-16e536ff7272)
 
 ## Overview
 
@@ -51,6 +51,8 @@ The Tab Time Tracker Chrome Extension is a lightweight tool that helps you keep 
 
 This extension empowers users to control online activities and make informed decisions, improving productivity and time management.
 
+## Screenshots 
+![Screenshot (120)](https://github.com/Shrey-Raj/Tab-Time-Tracker/assets/119098647/050b79d1-9cc5-485d-b514-34adb8940853)
 
 ---
 
