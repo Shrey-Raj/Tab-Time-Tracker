@@ -1,6 +1,6 @@
 # Tab Time Tracker Chrome Extension
 
-![Tab Time Tracker Logo](![icons8-url-48](https://github.com/Shrey-Raj/Tab-Time-Tracker/assets/119098647/6e5941d9-b090-4acb-86a9-16e536ff7272)
+![icons8-url-48](https://github.com/Shrey-Raj/Tab-Time-Tracker/assets/119098647/6e5941d9-b090-4acb-86a9-16e536ff7272)
 
 ## Overview
 
@@ -36,8 +36,9 @@ The Tab Time Tracker Chrome Extension is a lightweight tool that helps you keep 
 1. **Click the Tab Time Tracker Icon**: After installation, click the Tab Time Tracker icon in your Chrome toolbar to open the dashboard.
 
 2. **View Tab Usage**: The dashboard will display a list of tabs you visited in the current session so far, along with the time you've spent on each tab during your current browsing session.
+3. **Calculated Time** : As as soon as you switch from one tab to another the time spent on the previous tab is updated in the dashboard .
 
-3. **Real-time Tracking**: The extension automatically starts tracking when you open the browser and stops when you close it.
+4. **Real-time Tracking**: The extension automatically starts tracking when you open the browser and stops when you close it.
 
 ## Usage Benefits:
 
