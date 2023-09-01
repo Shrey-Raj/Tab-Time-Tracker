@@ -12,6 +12,8 @@ The Tab Time Tracker Chrome Extension is a lightweight tool that helps you keep 
 - Provides a simple and intuitive dashboard to view tab usage.
 - Data is cleared when the browser is closed, making it session-specific.
 
+### Demonstration Video At : [Click Here](https://drive.google.com/file/d/12tO5pzF-Ip40Y0ZZ29HvpCkPhOi2PZxn/view?usp=sharing)
+
 ## Installation (Local)
 
 **Note:** This method is for advanced users and developers who want to test the extension .
