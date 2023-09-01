@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tab Time Tracker</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+    }
+    #container {
+      max-width: 300px;
+      overflow-x: scroll;
+      margin: 20px auto;
+      padding: 0px 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 5px;
+    }
+    h1 {
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-size: 24px;
+      margin-bottom: 10px;
+      color: #06afe7;
+      text-align: center;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 10px;
+      color: #555;
+      font-size: 14px;
+      border-bottom: 1px solid #ccc;
+      padding: 10px 0;
+    }
+    li strong {
+      color: #333;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <h1>Tab Time Tracker</h1>
+    <ul id="urlList"></ul>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
